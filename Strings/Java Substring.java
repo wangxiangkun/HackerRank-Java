@@ -16,7 +16,7 @@ public class Solution {
         int end = in.nextInt();
         in.close();
         
-        String str = S.substring(start, end);
+        String str = S.substring(start, end);//substring的用法
         System.out.print(str);
     }
 }
