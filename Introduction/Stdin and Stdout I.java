@@ -14,6 +14,9 @@ There are  lines of input, and each line contains a single integer.
 42
 100
 125
+
+@append
+输出从标准输入获取到的3个整型数
 */
 
 public class Solution {
