@@ -51,11 +51,11 @@ public class Solution {
     // Practice 1
     // 创建一个类, 包含一个int类型的域和一个char类型的域, 证明Java执行了默认的初始化
     class AutoInit {
-        private int feildOne;
-        private char feildTwo;
+        private static int feildOne;
+        private static char feildTwo;
 
         public static void main(String[] args) {
-            System.out.println(this.feildOne + ", " +  this.feildTwo);
+            System.out.println(feildOne + ", " +  feildTwo);
         }
     }
 
