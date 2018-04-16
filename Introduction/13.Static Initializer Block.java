@@ -46,4 +46,17 @@ public class Solution {
         }
     }
 
+    // Thinking in Java
+    // Chapter 2
+    // Practice 1
+    // 创建一个类, 包含一个int类型的域和一个char类型的域, 证明Java执行了默认的初始化
+    class AutoInit {
+        private int feildOne;
+        private char feildTwo;
+
+        public static void main(String[] args) {
+            System.out.println(this.feildOne + ", " +  this.feildTwo);
+        }
+    }
+
 }
