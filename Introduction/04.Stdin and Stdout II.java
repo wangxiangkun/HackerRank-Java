@@ -22,6 +22,9 @@ Welcome to HackerRank's Java tutorials!
 String: Welcome to HackerRank's Java tutorials!
 Double: 3.1415
 Int: 42
+
+@append
+判断输入数据的类型
 */
 
 public class Solution {

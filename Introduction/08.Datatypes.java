@@ -42,6 +42,8 @@ n can't be fitted anywhere.
 -100000000000000 can be fitted in:
 * long
 
+@append
+判断输入的整数可以用哪些类型表示
 */
 
 class Solution {

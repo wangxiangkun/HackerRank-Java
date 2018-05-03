@@ -15,10 +15,6 @@ Print "Hello, Java." on the second line.
 简单标准输出
 */
 
-// Thinking in Java
-// Chapter 2
-// Practice 2
-// 创建一个Hello world程序
 public class Solution {
     public static void main(String[] args) {
         /* Enter your code here. Print output to STDOUT. Your class should be named Solution. */

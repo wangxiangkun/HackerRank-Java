@@ -19,6 +19,9 @@ java           100
 cpp            065 
 python         050 
 ================================
+
+@append
+规范化输出
 */
 
 public class Solution {

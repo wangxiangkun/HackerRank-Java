@@ -28,6 +28,9 @@ Print 10 lines of output; each line i(where 1 <= i <= 10) contains the result of
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20
+
+@append
+利用循环输出乘法表
 */
 
 public class Solution {
